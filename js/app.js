@@ -31,7 +31,7 @@ const contenedorProductos = document.getElementById('contenedor_productos')
 //      nombre: "Frutillas",
 //      desc: "Una fruta", 
 //      precio: 400,
-//       img:'./img/frutillas.png'
+//       img:'../img/frutillas.png'
 // }
 
 stockProductos.forEach((producto) => {
